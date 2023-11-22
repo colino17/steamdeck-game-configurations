@@ -1,4 +1,8 @@
-# MARIO TENNIS ACES
+# MARIO GOLF: SUPER RUSH
+- Yuzu > Custom Game Configuration > Graphics > API > OpenGL
+- Yuzu > Custom  Game Configuration > Advanced Graphics > Accuracy Level > High
+
+# MARIO TENNIS: ACES
 - Yuzu > Custom Game Configuration > Graphics > API > OpenGL
 - Yuzu > Custom  Game Configuration > Advanced Graphics > Accuracy Level > High
 
